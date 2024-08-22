@@ -1,0 +1,17 @@
+{
+  "cwd": "/home/khoivc/Desktop/learning/zalo-test-app",
+  "newProject": true,
+  "name": "test-app-01",
+  "package": "zmp-ui",
+  "framework": "react-typescript",
+  "cssPreProcessor": "less",
+  "template": "single-view",
+  "theming": {
+    "color": "#007aff",
+    "darkTheme": false,
+    "fillBars": false
+  },
+  "customBuild": false,
+  "includeTailwind": false,
+  "stateManagement": "recoil"
+}

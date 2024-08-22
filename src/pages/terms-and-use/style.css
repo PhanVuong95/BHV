@@ -1,0 +1,27 @@
+.wrap-block-terms-and-use {
+    padding: 24px;
+    background: white;
+}
+
+.wrap-block-terms-and-use-title {
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.mb-24 {
+    margin-bottom: 24px;
+}
+
+.mt-6 {
+    margin-top: 6px;
+}
+
+.wrap-block-terms-and-use-content.mt-6 {
+    white-space: pre-line;
+}
+button.zaui-btn.zaui-btn-highlight.zaui-btn-primary.wrap-block-terms-and-use-fixed {
+    position: fixed;
+    bottom: 0px;
+    left: 24px;
+    right: 24px;
+}

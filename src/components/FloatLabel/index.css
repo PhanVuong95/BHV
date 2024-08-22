@@ -1,0 +1,32 @@
+.float-label {
+    position: relative;
+    margin-bottom: 12px;
+}
+
+.float-label>.ant-input {
+    height: 58px !important;
+    font-size: 14px !important;
+    padding-top: 12px !important;
+}
+
+.label {
+    font-size: 14px !important;
+    font-weight: normal;
+    position: absolute;
+    pointer-events: none;
+    left: 12px;
+    top: 16px;
+    transition: 0.2s ease all;
+    color: #9B9B9B !important;
+}
+
+.label-float {
+    top: 6px;
+    font-size: 12px !important;
+    color: var(--primary-color) !important;
+}
+
+
+.pdt-16 {
+    padding-top: 16px !important;
+}

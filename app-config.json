@@ -1,0 +1,33 @@
+{
+  "app": {
+    "title": "Insurance zalo mini app",
+    "headerColor": "",
+    "textColor": "white",
+    "statusBarColor": "#1843EF",
+    "leftButton": "back"
+  },
+  "debug": false,
+  "listCSS": [],
+  "listSyncJS": [],
+  "listAsyncJS": [],
+  "pages": [
+    "/dynamic-route",
+    "/404",
+
+    "/",
+    "/home",
+    "/account",
+    "/login/portal",
+    "/account/become-agency",
+    "/account/change-password",
+    "/account/AccountInfomation",
+    "/account/transaction/:insuranceId",
+    "/insurance",
+    "/insurance/:feature",
+    "/agency",
+    "/agency/report",
+    "/agency/voucher",
+    "/agency/payment",
+    "/agency/share"
+  ]
+}
